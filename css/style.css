@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-size: 1em;
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    background: #7374B4;
+}
+#header-area{
+    background-color: #487FE0;
+    width: auto;
+    height: auto;
+    text-align: center;
+    padding:15px;
+}
+#menu-area{
+    color: aliceblue;
+    padding: 15px;
+}
+#logo{
+    color: black;
+    font-size: 90px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.white{
+    color: white;
+}
+#post-area{
+    background: black;
+    width: 100px;
+    height: 100px;
+
+}
